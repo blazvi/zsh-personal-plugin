@@ -11,4 +11,4 @@ for _atom_path in $_atom_paths; do
     fi
 done
 
-alias atom='at .'
+alias a='at .'
